@@ -1,0 +1,10 @@
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.csprojAssemblyReference.cache
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.Form1.resources
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.Properties.Resources.resources
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.csproj.GenerateResource.cache
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.csproj.CoreCompileInputs.cache
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\bin\Debug\WindowsFormspicture.exe.config
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\bin\Debug\WindowsFormspicture.exe
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\bin\Debug\WindowsFormspicture.pdb
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.exe
+C:\Users\Ragave Manokaran\source\repos\WindowsFormspicture\WindowsFormspicture\obj\Debug\WindowsFormspicture.pdb

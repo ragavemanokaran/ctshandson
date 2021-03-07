@@ -1,0 +1,9 @@
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.deps.json
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.dll
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.pdb
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.AssemblyInfoInputs.cache
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.AssemblyInfo.cs
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.dll
+C:\Users\Ragave Manokaran\source\repos\MagicFilesLib\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.pdb
